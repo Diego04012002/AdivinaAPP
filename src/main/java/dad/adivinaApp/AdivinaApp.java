@@ -1,6 +1,5 @@
-package dad.holamundo.javafx;
+package dad.adivinaApp;
 
-import java.awt.event.ActionEvent;
 import java.util.Random;
 
 import javafx.application.Application;

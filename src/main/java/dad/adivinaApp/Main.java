@@ -1,4 +1,4 @@
-package dad.holamundo.javafx;
+package dad.adivinaApp;
 
 import dad.adivinaApp.AdivinaApp;
 
