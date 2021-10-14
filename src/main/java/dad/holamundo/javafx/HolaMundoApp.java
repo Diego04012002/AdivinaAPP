@@ -1,7 +1,5 @@
 package dad.holamundo.javafx;
 
-import javax.management.loading.PrivateClassLoader;
-
 import javafx.application.Application;
 import javafx.geometry.Pos;
 import javafx.stage.Stage;
@@ -11,7 +9,6 @@ import javafx.scene.layout.VBox;
 public class HolaMundoApp extends Application {
 
 	private Label saludoLabel;
-	private Label saludoLabelNumeros;
 	private Button saludoBoton;
 	private TextField nombreText;
 	private VBox rootPanel;
